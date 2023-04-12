@@ -3,37 +3,53 @@
 
     <url>
         <loc>https://www.autopitonline.com/</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
         <priority>1.00</priority>
     </url>
 
     <url>
         <loc>https://www.autopitonline.com/cars</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://www.autopitonline.com/finance</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://www.autopitonline.com/import-car</loc>
+        <lastmod>2023-04-12</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.autopitonline.com/import-car-japan</loc>
+        <lastmod>2023-04-12</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.autopitonline.com/import-calculator</loc>
+        <lastmod>2023-04-12</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://www.autopitonline.com/contact-us</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://www.autopitonline.com/privacy-policy</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://www.autopitonline.com/terms-and-conditions</loc>
-        <lastmod>2023-01-17</lastmod>
+        <lastmod>2023-04-12</lastmod>
         <priority>0.80</priority>
     </url>
 </urlset>
